@@ -13,7 +13,11 @@ Deze informatie is aangevuld met de CBS wijken en buurten gegevens om de uitslag
 
 ### Disclaimer
 
-Helaas zijn de locatiegevens per stembureau niet compleet waardoor het niet goed mogelijk is de precies juiste cijfers te tonen.
+Helaas zijn de locatiegevens per stembureau niet eenvoudig geautomatiseerd te verkrijgen.
+In de verkiezingsuitslagen EML bestanden zitten geen volledige adressen.
+Daarom is gebruik gemaakt van de gegevens van waarismijnstemlokaal,
+maar die gegevens zijn niet compleet.
+Daardoor het niet goed mogelijk om precies juiste cijfers te tonen.
 Er is zo goed mogelijk geprobeerd de gegevens te verwerken.
 
-&copy Hilbrand Bouwkamp
+&copy; Hilbrand Bouwkamp
